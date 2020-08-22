@@ -1,0 +1,14 @@
+
+Setting up the problem...Dimention of:
+A 513
+B 513
+0.000038 s
+    size Of vector: 513 x 0
+  Allocating device variables...0.847694 s
+Copying data from host to device...0.000024 s
+Launching kernel...0.031340 s
+Verifying results...
+0.003375 s
+
+TEST PASSED
+

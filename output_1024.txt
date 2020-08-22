@@ -1,0 +1,14 @@
+
+Setting up the problem...Dimention of:
+A 1024
+B 1024
+0.000054 s
+    size Of vector: 1024 x 0
+  Allocating device variables...0.843331 s
+Copying data from host to device...0.000023 s
+Launching kernel...0.040966 s
+Verifying results...
+0.012892 s
+
+TEST PASSED
+
